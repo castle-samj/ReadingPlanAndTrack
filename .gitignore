@@ -89,7 +89,7 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-.idea
+.idea/
 
 # Default ignored files
 /shelf/
